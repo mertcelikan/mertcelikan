@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Python - Data Engineer - Web Crawling - Web Automation
 
 
